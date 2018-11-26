@@ -2,7 +2,8 @@
 Cookiecutter Python Library 
 ===========================
 
-A Cookiecutter_ template for a basic python library.
+A Cookiecutter_ template for a basic python library including auto-generated
+sphinx documentation and pytest framework.
 
 
 Usage

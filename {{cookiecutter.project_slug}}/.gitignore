@@ -1,0 +1,16 @@
+__pycache__/
+*.cache
+*.pyc
+
+*.sw*
+.idea
+
+.coverage
+.coveragerc
+htmlcov
+result.xml
+pip.conf
+
+dist
+{{ cookiecutter.project_slug }}.egg-info
+docs/_build
